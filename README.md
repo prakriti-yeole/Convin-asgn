@@ -20,6 +20,8 @@ Create a web application using ReactJS with the below problem statement.
 ### Frontend
 
 - ReactJS, Redux, React Router, Antd, scss
+### Backend
+- Backend:  used a json server
 
 ### Additional stack/tool
 
